@@ -1,0 +1,26 @@
+{
+  "GroupPrivateToken": "689552db-54b5-4c74-9f1c-9dd6188a10b1",
+  "Currency": "1",
+  "RedirectURL": "http://www.google.co.il",
+  "FailRedirectURL": "http://icredit.rivhit.co.il",
+  "IPNURL": "http://c2490cf9.ngrok.io/test/ipn_listener.php",
+  "CustomerLastName":"test",
+"CustomerFirstName":"daniela",
+"EmailAddress":"api@rivhit.co.il",
+  "ExemptVAT": false,
+  "PriceIncludeVAT": true,
+  "MaxPayments": "12",
+  "SaleType": 1,
+  "HideItemList":false,
+  "Items": [
+    {
+      "UnitPrice": "30",
+      "Quantity": "1",
+      "Description": "מוצר לדוגמא 1"
+    }
+    ],
+"Custom1":"88",
+"Custom2":0,
+"Custom3":"888",
+"Custom4":""
+}
