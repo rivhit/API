@@ -1,0 +1,16 @@
+{
+  "Currency": 1,
+  "Items": [
+    {
+      "UnitPrice": 10,
+      "Quantity": 1,
+      "Description": "תרומה"
+    }
+  ],
+  "GroupPrivateToken": "a5411ae7-35ad-49e2-a339-1fb5e9741ced",
+  "EmailAddress": "d@gmail.com",
+  "CustomerLastName": "Yoshp",
+  "CustomerFirstName": "Asaf",
+  "City": "Jerusalem",
+  "Address": "56 Shivtei Israel Street"
+}
